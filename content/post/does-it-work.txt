@@ -21,10 +21,6 @@ Please note that any change in the well being of the team may not be solely or p
 
 ---
 
-[https://github.com/drdeemay/Tailtells/edit/master/content/post/does-it-work.md](https://github.com/drdeemay/Tailtells/edit/master/content/post/does-it-work.md)
-
----
-
 #### Here is the text for the page ...
 
 ~~~
@@ -52,6 +48,3 @@ Please note that any change in the well being of the team may not be solely or p
 
 $$$$$
 ~~~
-
-
-test
