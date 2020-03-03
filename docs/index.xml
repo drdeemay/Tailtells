@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tales</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Tales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2020 18:52:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Does It Work?</title>
+      <link>https://example.org/2020/02/25/does-it-work/</link>
+      <pubDate>Tue, 25 Feb 2020 18:52:07 +0000</pubDate>
+      
+      <guid>https://example.org/2020/02/25/does-it-work/</guid>
+      <description>How do you know if your training intervention is having a positive effect on the well being of your team at work?
+ Before you implement your intervention (training) ask your team to complete the online questionnaire in order to get a base-line measurement of their well being. Implement your training intervention. Get all the team to engage with training over a number of days or weeks. At the end of your training program ask you whole team to complete the online questionnaire again in order to measure whether there has been any change in the well being of the team.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 25 Feb 2020 18:35:59 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Tails &amp;hellip; wot Tales?</description>
+    </item>
+    
+  </channel>
+</rss>
