@@ -2,6 +2,7 @@ baseurl = "https://example.org"
 languageCode = "en-us"
 title = "Tales"
 theme = "hugo-lithium-theme"
+publishDir = "docs"
 googleAnalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
